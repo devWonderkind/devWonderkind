@@ -23,8 +23,3 @@
 
 [![An image of @coder_chahal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coder_chahal)](https://holopin.io/@coder_chahal)
 
-
----
-[![](https://visitcount.itsvg.in/api?id=devWonderkind&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
