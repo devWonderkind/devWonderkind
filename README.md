@@ -1,5 +1,6 @@
+<img align="center" alt="coverimage" src="https://github.com/devWonderkind/devWonderkind/blob/main/img/coverimg.png"/>
 
-
+[![](https://visitcount.itsvg.in/api?id=devWonderkind&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🔭 I’m currently working on Open-source.<br>🌱 I’m currently learning react.<br>💬 Ask me about open-source, frontend.<br>⚡ Fun fact  I'm developer.
 
