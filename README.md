@@ -2,7 +2,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=devWonderkind&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
-🔭 I’m currently working on Open-source.<br>🌱 I’m currently learning react.<br>💬 Ask me about open-source, frontend.<br>⚡ Fun fact  I'm developer.
+🔭 I’m currently working on Open-source.<be>
+🌱 I’m currently learning react.<be>
+💬 Ask me about open-source, frontend.<be>
+⚡ Fun fact  Obsessed with pixel-perfection.
 
 
 ## 🌐 Socials:
