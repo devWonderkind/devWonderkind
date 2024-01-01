@@ -6,6 +6,7 @@
 - 💡 Constantly exploring the latest web technologies to stay ahead of the curve.
 - 💬 Ask me about open-source, frontend.
 - ⚡ Fun fact: Obsessed with pixel-perfection.
+- 🤖 Let's start!!
 
 
 ## 🌐 Socials:
